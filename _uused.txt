@@ -8,10 +8,9 @@
 
 
 	// steps to create a new repo 
+		use original dir, cd to it 
 		git clone https://github.com/yuffff/learningpack_muster.git
-		rename to devnotes
 		https://github.com/new to create a new proj. online 
-		del .git dir. 
 		git init 
 		git remote add origin xxx to add a new address
 		click the batch file  
