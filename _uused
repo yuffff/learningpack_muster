@@ -8,6 +8,7 @@
 
 	// steps to create a new repo 
 		git clone https://github.com/yuffff/learningpack_muster.git
+		rename to devnotes
 		https://github.com/new to create a new proj. online 
 		del .git dir. 
 		git init 
