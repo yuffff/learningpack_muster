@@ -6,6 +6,7 @@
 		https://github.com/yuffff?tab=repositories
 		+todo copy links here
 		git submodule add https://github.com/<user>/rock rock
+		mo
 
 	// steps to create a new repo 
 		use original dir, cd to it 
