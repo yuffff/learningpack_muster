@@ -20,3 +20,6 @@
 		git init 
 		git remote add origin xxx to add a new address
 		click the batch file  
+		
+		//check 
+		with https://github.com/yuffff?tab=repositories
