@@ -1,0 +1,62 @@
+
+        补课 -ws
+    ---
+        BAS2 -ws -ws
+        BAS4 -ok  
+        BAS7
+            cg1 -sep
+            cg2 -sep
+    ---
+        vert-4 
+            software fault -sep
+            concurrency -sep
+            internet and web ok
+    ---
+        profi 
+            db theory -ws
+        forschungsprojekt?
+            contact gumhold for a project (medicin am besten)
+            die Themenfindung zu erleichtern. -ws
+    ---
+        Allgemeine Qualifikation 
+            academic -sep
+            hauptseminar ok
+            Kp ok
+            Lab ok
+    ---
+        论文 -ss 2020
+            //先研究着优劣
+            //要有自己的算法创新-在一定已知算法上
+            //结合对领域的预测判断
+            cgv:
+                医学（交叉学科）
+
+                几何处理、多媒体处理
+                    https://tu-dresden.de/ing/informatik/smt/cgv/studium/studentische-arbeiten/themen-fuer-studentische-arbeiten/geometrie-verarbeitung
+                    p::too complex
+                校外thesis
+                    https://www.scads.de/de/lehre/abschlussarbeiten/17-abschlussarbeiten/467-electronic-nose
+                        p::开发前端界面
+                        f::神经网络算法
+                    https://3dit.de/en/products.html
+                        f::根据CAD数据、技术图纸或照片，我们为您的产品生成一个三维计算机模型
+                            这些交互式3D解决方案适用于广泛的业务领域:Factory Planning, System Control, Tracking & Data Visualization
+                        p::没自己的算法
+            cv/ai:
+            theorical problems:
+                f::论文可以专注于算法
+                p::经验太少，难以进行后续研究
+                https://iccl.inf.tu-dresden.de/web/SAT-Solving_und_das_L%C3%B6sen_von_Sudokus_(SS2019)/en
+
+
+    ---
+        job 
+            https://www.verw.tu-dresden.de/stellaus/
+            https://www.synchrone-mobilitaet.de/de/projekte/sepia.html
+                p::没有自己成果？可以发表论文
+                f::bis 31. Mai 2020
+            
+
+
+
+

@@ -1,0 +1,249 @@
+//
+    invq-   indicates inversed questions 
+    a-      answers to the corres. question 
+    answer filling needed, reform needed
+
+    transfer from k2rough to here: 
+        just copy here, and add ra- . do not del, add only. 
+    extract q- with python
+    def. should be reformed from original description 
+        and: pro cons, def, ... 
+        use ra- to represent this 
+            reformed answer 
+        can be ommited if the answer is stf. 
+    something do not need to reform! so , just give the opxx  
+    key abvility:
+        1.summ, highlev understanding 
+        2.reform of the answers 
+        3.easy prac.
+    view is imp. not just try to "practice" without 
+        reviewing the answer here 
+    rem1 means 地毯式复习一遍，有时足够了，毕竟后面还有随机复习适应考试环境
+    先把我一些最基本的proof
+    ////new added! 
+    ////excerise added! 
+    <> added! 
+    //// do not modify extracted file!! 
+    认知是从基础到深入的，完成slides是最简单根本的，而后再考虑ubung，但是都要尽快
+    ditan practice + random practice 
+    measuring review state? 
+        reviewstage1: literal finished 
+        reviewstage2: direct memory(提笔就来)
+        reviewstage3: fast and good  
+                                    |---|
+                                    |--|   |
+                                    |      |
+                                    |      |----
+                                    |
+            |-----------------------|   examdate
+        ----|            important to rem and practice!
+        long prepare! break out! 
+        fastReactRate(FRR) = 0.5 
+        GoThrough! 
+            1.ThroughwithAnswer twanswer 
+            2.twOanswer 
+            3.srwOanswer -- stratified random without showing answer 
+        prefetch()
+            gothrough: 
+                case hardtounderstand -> netext as "key"
+                case q, h, write down. 
+            markas detailready
+        detail()
+            gothrough:
+                p, pp-, h-, possible 
+            markas remready 
+        finalgeathering()
+            //bi-latency review style:(workflow)
+            for i,j in (s,t) 2 as unit 
+                twanswer(i)/twanswer(j)/twOanswer(i)/twOanswer(j)
+                srwOanswer(eachchep2most*)
+        randomfinaltraining()
+            twanswer(all)/rwOanswer()/twOanswer(all)  ? 
+        rem 
+            shorted, graph based, description based ......
+        jiangshi, write again and again for years ...
+        paint it! -- a rem. stratigy 
+            how it looks like? draw again. 
+        speak it out! 
+        从最简单的情形入手，想到哪里会写就写出来，基本的语义单位拼合成大的程序
+        code writting? op211! pad written
+            语义单位
+            组合
+        
+//
+    idea
+        进步：
+        更加优秀的工具
+            学习分成两类-base和active（advanced）
+                整个的数据结构：pool+MISD pipline
+                不同的学习模式
+                在base中，是基于填充思想的，freeasp的感觉，在短时间内可能没啥效果--10% -fixed
+                    缺点是没有方向，优点是训练基础
+                    选择最短缺的，或者多个平均轮流
+                    没有一个固定的流程，容易迷失方向
+                    当然也可以demand-drived
+                    pool-based
+                在active中，是基于流程的，让不同的任务处于流程的各个阶段，从而加速。--90% -fixed
+                    总结最新的信息，资源。完成课程
+                    方向明确，但是可能缺乏基础。
+                    因为时间因素，就算全力以赴也差不多刚好完成学业，科研任务
+                    MISD pipline-based
+            code
+                framwork-plugin-based -fixed
+        更加明确的方向-new
+            cg+--尽管可能仅生存在各大科研中心。科研比产业界快20年
+            通过cg+ 和ai，总结提炼技能，工作啥都行
+        逐步的积累和反复总结-new
+            +博客/公众号，炫技
+            ***f=(0.2-pressure)pool + (0.8-pressure)blog + (pressure)M-pipline
+            
+    new-2019.09
+        for course(linear with fixed time consumption)
+            learn:
+                r0-搜集有关资料完毕 x1
+                //
+                r1.1-课件标注  each day 100 pages -output   -pad
+                    需要注意下面的那些问题，尽快读完
+                r1.2-扩展学习-pc
+                //
+                r2.1-整理问题-pc
+                r2.2-深入练习  each day 6-12slides-pad
+                    这俩也是同步进行的
+                (optional)
+                r3.1-附加资料-pc
+                r3.2-整理答案-pc 
+                //
+                r4.1-随机训练标注错题 ------output  -pc+pad
+                r4.2-补充空白高度总结-pc 
+            review: 
+                复习r4.1就够了，再次训练一些题目
+        activ+advanced(linear with fixed time consumption)
+            //see folder for detail
+    new-2019.08
+        r0-global idea, materials geathering - 
+            +++
+        r1-slides *
+            +
+                with ipad, draw p-type w 
+                back to win, make notes according the slides
+                start from easiest
+                从文件小的开始
+                找并列关系
+                type examxxx 标记考试重点
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+        r2-make notes and design tasks -
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+        r3-other materials 
+            +++++++++++++++++++
+        r4-loop rem.
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+            +++++++++++++++++++++++++++++++++++++
+
+    //about preparing for exams 
+        loop:快速过一遍，5天时间足够任何一门课程，很多书本上是不用看的 
+            steps:
+                p0-web search宏观概念
+                p1-整理各个资料
+                p2-快速浏览各个ppt，根据关键词
+                p3-标记hard,notsohard,easy
+                loop:
+                    p3-从简单的开始看，从文件小的开始  <-
+                    p4-具体每个ppt：
+                        1.找关键词:summary/today we focus on.../approaches...
+                        2.找并列关系:快速浏览
+                        理解并标记
+            // bkp content:
+                加强内容理解：
+                    with +::网络上资料，看书本，练习题，答案，github，
+                    适当跳过
+                加强时间效率：时间有限，一些章节过于复杂，而一些简单
+                    快速浏览 
+                        1.找关键词:summary/today we focus on.../approaches...
+                        2.找并列关系:快速浏览
+                    ---具体---
+                    很多ppt
+                        从最简单的部分开始，适当跳过
+                        rename pdf标记hard,notsohard,easy
+                        保证进度
+                    在每个ppt中-有宏观概念
+                        1.找关键词:summary/today we focus on.../approaches...
+                        2.找并列关系:快速浏览
+                标记
+                    pdf reader标记，type examxxx 标记考试重点，highlight标记重要部分， ??标记不会的部分
+                    搜索时候可以直接搜exam/??
+        loop:第二遍仔细看，写笔记，练习计算
+        loop:查阅所有有关资料，总结重点
+        loop:大总结
+        loop:再看课件保证都会
+
+// this will be alone with .bat files and can be found online 
+// summ. tipps of studying 
+
+workflow:
+    //时间关系，中间也可以穿插跳跃
+    premix
+        materials finding 
+        key2rough understanding 
+    ---//detailready//
+    *detailmix
+        all problems has been detected 
+        question/ problem/ hlev und. extraction...
+    *postmix
+        inversed problem design
+        highlev questions design 
+        answer filling 
+            (keyword only! shall extended in oral)
+        ...
+    ---//rem ready//
+    rempractice
+        visual based, speak ori. 
+typical questions:
+    global
+        gen. under. -- h-q-
+        list of methods -- q-
+        pro cons 
+    spec.
+        algo./math gernal idea 
+        algo./math detail 
+        algo./math runtime example 
+要不要在q后面写answer？
+    文字性的要reform一下，方便记忆
+    公式也尽量描述一下。不容易描述的但是visual的
+    怎么写？可以只写关键词，一边背诵一边写r1
+with piano music when necessary 
+    ... 
+steps to learn sth.
+    new to the field 
+        search web for a initial guess 
+    detailready 
+        take a look into slides roughly and mark what are imp. /hard  
+        should get a clear stru. and confidence on slides    
+    indetail
+        start from the summ. part/ start fromxxx 
+
+meaning of the files 
+    r0-mov     -- motivation 
+    r0-ext     -- extention of the know. with the help of internet 
+    r1-k2rough -- to achieve a detailready state, the sec. file that go into 
+    r2-mixed   -- mixed detail from slides 
+        p   -- problems not solved 
+        q   -- question may be asked 
+        p-q -- ques. should be asked  
+    //
+    r3-gen-ql      -- ques. list extracted from mixed.txt
+    r3-gen-h       -- high level understanding of the contents (global view)
+    r4-summ    -- summary of the whole content 
+    r5-ext     -- additional, research related, dev related code/ lib/ tutorial/ tech 
+
+
+
+    
+
+

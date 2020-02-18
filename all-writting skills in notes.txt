@@ -1,0 +1,3 @@
+
+    when using win , we can switch between apps with the help of win+tab hot key .
+    

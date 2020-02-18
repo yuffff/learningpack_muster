@@ -1,0 +1,162 @@
+    John schmith 名字在前面
+
+-----
+    some tipps about sending email
+
+        Hello 比 Hi正式。Dear最正式。想象你和对方见面一定要西装革履打领带，
+            就说Dear Mr. X, Dear Ms. X, Dear Hiring Manager（你不知对方名字只知道职位情况下）
+        你和对方见面穿衬衫西裤，不打领带，就可以说Hello John，Hello Mary，
+        你和对方见面T恤仔裤就可以，就说Hi John，Hi Mary，如果你和对方穿着背心也可以见面，就写Hey John好了。
+
+        一般化的邮件或者需要传达快乐的语境的时候会用hi
+
+-----
+to register for the exam
+
+Katrin.Heber@tu-dresden.de
+
+    Dear Katrin,
+
+    hallo ,my name is Zhongyuan Yu. i'm writing to register for an exam .
+    I would like to attend the oral exam of Computer Vision 1 by Dr.Benjamin Guthier.
+    if everything is fine,could you please tell me the exam date?
+
+    best regards,
+    Zhongyuan Yu
+
+Katrin.Heber@tu-dresden.de
+
+    Dear Katrin,
+
+    i'm writing to ask a qustion:i have attend the course ML2 as INF-VERT2,
+    and i haven't chosen the other courses in this model . 
+    can i take the exam of ML2(written exam) this semester ?thanks 
+    
+    Best regards 
+    Zhongyuan Yu
+
+
+
+
+ulrike.schoebel1@tu-dresden.de
+
+    Dear ulrike,
+
+    hallo ,my name is Zhongyuan Yu. i'm writing to register for an exam .
+    I would like to attend the oral exam of Information Retrieval by Dr.-Ing. Maik Thiele.
+    i have filled in the form and want to ask , where should i hand it in?
+    Moreover , i want to ask if i can attend the exam in english?
+    Thanks.
+
+    best regards,
+    Zhongyuan Yu
+
+    
+
+Dear ulrike,
+
+    hallo!I am Zhongyuan Yu .I have registered the exam of Information Retrieval with you.
+    As Modul INF-BAS4, i have chosen an other course :Prediction and Estimation Techniques by Waltenegus Dargie(an other 4 SWS).
+    I want to attend the exam of it too(maybe , at the same date?).Can i also register that with you now? 
+
+best regards,
+Zhongyuan Yu
+
+
+
+jana.bohl@tu-dresden.de
+
+    Dear jana,
+
+    hallo ,my name is Zhongyuan Yu. 
+    I would like to attend the oral exam of Computer Graphics 1 (WS 2018/19)  by  Prof. Dr. S. Gumhold.
+    I study Diplom informatik and want to take the course in BAS7 modul.I want to ask if i should
+    also take an other exam in the modul at the same time? or can just take this exam this semester?
+    Thanks.
+
+    best regards,
+    Zhongyuan Yu
+
+
+
+stefan.gumhold@tu-dresden.de
+
+    Dear Prof. Dr. S. Gumhold,
+
+    hallo! My name is Zhongyuan Yu. 
+    I'm writing to ask a question about the exam of CG1.
+    As i have too many exams in this semester , 
+    Would it be fine to take the exam of CG1 a little bit later ? maybe in the beginning of April? 
+
+    best regards,
+    Zhongyuan Yu
+
+
+//
+    an other qustion:i have attend the course ML2 as INF-VERT2,and i havent choosen the other courses in this model .
+    can i take the exam of ML2(written exam) this semester ?thanks 
+
+    Best regards
+    Zhongyuan Yu
+
+
+
+waltenegus.dargie@tu-dresden.de
+
+    Dear waltenegus,
+    Hallo,my name is Zhongyuan Yu. I'm writing to submit my homework for the course Prediction and Estimation Techniques.
+    The code (as zip format) and report (as PDF format) files are attached to this email.
+
+    By the way, i want to take the exam of this course,could you please offer me an appointment? 
+
+    Best regards
+    Zhongyuan Yu
+
+
+
+
+Dear ulrike,
+
+    hallo! I am Zhongyuan Yu .I have an other exam on that day at 11:10 (90 mins long).So the time is not enough.
+    could you please offer me an other appointment? Maybe a time in afternoon(2 pm - ) on that day ?
+
+best regards,
+Zhongyuan Yu
+
+
+Dear ulrike,
+
+    hallo! I am Zhongyuan Yu .
+    i have remembered that i have an other exam on 28. Feb. 
+    So, could you please offer me an other date for the exam? it would be fine on 18.03.2019 instead of 01.03.2019 .
+
+
+best regards,
+Zhongyuan Yu
+
+
+
+stefan.gumhold@tu-dresden.de
+
+    Dear Prof. Dr. S. Gumhold,
+
+    hallo! I am currently studying for a master's degree of computer science, 
+    I have completed my bachelor degree in my hometown China.The tutor of our institut 
+    told me that it is correct to make exam appointments with secretary.
+    And I have already made contact with Mrs. Jana Bohl.
+    Thanks for your caring!
+
+
+    best regards,
+    Zhongyuan Yu
+
+
+se@​mailbox.tu-dresden.de
+
+Hallo,
+    I am Zhongyuan Yu, currently studying master informatik in tu dresden. I would like to attend the oral exam of course 
+    Software Fault Tolerance and Foundations of Concurrent and Distributed Systems by Prof. Dr. Fetzer as VERT-4 module.
+    It is good if i can take it in September.Thanks a lot.
+
+Best regards,
+ZHongyuan Yu 

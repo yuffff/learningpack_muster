@@ -1,0 +1,49 @@
+
+
+
+    ddl control :: https://github.com/yuffff/course_and_ddl/blob/master/ddl_control
+
+    ---- archive ---
+    Academic Skills in software en
+        write first example
+        Halloworld - ok 
+        more structures 
+        write ZOPP as txt file 
+        email submitted
+        get replay , should be modified later 
+
+    cg2 
+        run on an other computer to see the color 
+        the same 
+        do the second task until 26.04!
+        cube done , other features will not be added 
+        bonus can write some 
+        check it the last time 
+
+    cds lab
+        just registered 
+        docker setup   -ok
+        write the new dockerfile base on the picture   
+        email submitted 
+        wait for the id 
+        ok
+
+
+    收拾老家
+        round 1
+            最后一波东西滑雪板工具
+            板子地下室
+        round 2
+            挪动位置
+        -
+        ok
+    
+
+
+
+
+
+
+
+
+
